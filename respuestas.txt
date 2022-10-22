@@ -1,0 +1,14 @@
+a. ¿Qué hubiese sucedido si, en vez de generar un archivo por cada operación
+matemática, hubiésemos programado todo en un mismo archivo?
+
+No tendríamos la funcionalidad específica que nos permiten los módulos.
+
+
+b. ¿Por qué el mejor camino es generar distintos archivos y luego requerirlos en uno solo?
+
+El código es más legible, facilidad de encontrar un error al ser más específico, escalabilidad del programa. Podemos reutilizar el código.
+
+
+c. ¿Será esta metodología de trabajo una constante de aquí en adelante?
+
+Si, es una buena práctica. Nos permite un código limpio y reutilizable.
